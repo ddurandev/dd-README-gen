@@ -23,7 +23,7 @@ function renderLicenseSection(license) {
   if (license) {
     return `## License
 
-    This project is licensed under the ${license} License - see the [License](https://opensource.org/licenses/${license}) for details.`;
+    This project is licensed under the ${license} License - see the https://opensource.org/licenses/${license} for details.`;
   }
 }
 
