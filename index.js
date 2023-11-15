@@ -27,8 +27,8 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'contributing',
-    message: 'How can others contribute to your project?',
+    name: 'collaborators',
+    message: 'Do you have any collaborators?',
   },
   {
     type: 'input',
